@@ -28,9 +28,9 @@
 </p>
 
 Things I like to do:
-- 🎨 Interfaces
 - 🖥 Web Applications
 - 📱 Applications
+- :coffee: Coffe
 
 About me:
 - 📫 How to get to me: [My Linkedin](https://www.linkedin.com/in/devrafaelsantanna/)
