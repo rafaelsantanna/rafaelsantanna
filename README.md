@@ -30,7 +30,7 @@
 Things I like to do:
 - 🖥 Web Applications
 - 📱 Applications
-- :coffee: Coffe
+- :coffee: Coffee
 
 About me:
 - 📫 How to get to me: [My Linkedin](https://www.linkedin.com/in/devrafaelsantanna/)
