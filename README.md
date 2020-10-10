@@ -3,17 +3,18 @@
 *I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️*
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelsantanna" alt="Rafael Sant Anna" /> </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rafaelsantanna&show_icons=true&hide_border=true&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantanna&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantanna&layout=compact&show_icons=true&hide_border=true"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=rafaelsantanna&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
