@@ -3,7 +3,7 @@
 *I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️*
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelsantanna" alt="Rafael Sant Anna" /> </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
