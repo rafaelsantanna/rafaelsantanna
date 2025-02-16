@@ -11,13 +11,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantanna&layout=compact"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=rafaelsantanna&show_icons=true&include_all_commits=true&hide=contribs"
-    />
-  </a>
 </p>
 
 ### 🚀 Things I like to do:
