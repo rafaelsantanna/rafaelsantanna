@@ -22,7 +22,7 @@
 
 ### 🌟 About me:
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/devrafaelsantanna/)
-- 🌍 Based in Brazil
+- 🌍 Based in Portugal
 - 💻 Currently working on exciting web projects
 
 ### 🛠️ Technologies & Tools:
