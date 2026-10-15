@@ -6,7 +6,7 @@
 
 Engenheiro de software sênior. Construo sistemas B2B, sites e apps, da interface à regra de negócio. São mais de 10 anos em produção, de painéis administrativos a plataformas com milhares de usuários.
 
-Moro em Viseu, Portugal, e trabalho no horário comercial do Brasil. **Disponível para PJ remoto e projetos freelance.**
+Hoje sou Desenvolvedor Full Stack Sênior na Fundacred. Moro em Viseu, Portugal, trabalho no horário comercial do Brasil e **estou aberto a projetos freelance.**
 
 [Portfólio](https://rafaelsantanna.github.io/) · [LinkedIn](https://www.linkedin.com/in/devrafaelsantanna/) · [Email](mailto:dev.rafaelsilva@gmail.com) · [CV em PDF](https://rafaelsantanna.github.io/cv/rafael-sant-anna-cv.pdf) · [English](https://rafaelsantanna.github.io/en/)
 
@@ -64,6 +64,7 @@ Demos que eu construí do zero, com marca e dados fictícios. Tudo roda no naveg
 
 | Período | Onde | O que fiz |
 | --- | --- | --- |
+| 2026 até hoje | Fundacred | Desenvolvimento e evolução de aplicações web, com participação em decisões de arquitetura de software e na implementação de soluções com IA. |
 | 2025 a 2026 | Affinity / Axians | Plataforma acadêmica com React 19 e Laravel 11. Mais de 200 melhorias e funcionalidades num projeto previsto para mais de um ano, entregue em cerca de seis meses. |
 | 2019 a 2025 | Revvo | Mais de 15 projetos LMS/LXP corporativos, integrações com ERP, CRM e BI, e participação na assistente de IA JUDY. |
 | 2017 a 2019 | Trinks | Interfaces administrativas e agendamento online para salões, clínicas, redes e franquias. |
