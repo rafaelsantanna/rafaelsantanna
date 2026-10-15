@@ -65,7 +65,7 @@ Demos que eu construí do zero, com marca e dados fictícios. Tudo roda no naveg
 | Período | Onde | O que fiz |
 | --- | --- | --- |
 | 2026 até hoje | Fundacred | Desenvolvimento e evolução de aplicações web, com participação em decisões de arquitetura de software e na implementação de soluções com IA. |
-| 2025 a 2026 | Affinity / Axians | Plataforma acadêmica com React 19 e Laravel 11. Mais de 200 melhorias e funcionalidades num projeto previsto para mais de um ano, entregue em cerca de seis meses. |
+| 2025 a 2026 | Affinity / Axians | Plataforma acadêmica estimada em mais de um ano e entregue em cerca de seis meses, com React 19 e Laravel 11. |
 | 2019 a 2025 | Revvo | Mais de 15 projetos LMS/LXP corporativos, integrações com ERP, CRM e BI, e participação na assistente de IA JUDY. |
 | 2017 a 2019 | Trinks | Interfaces administrativas e agendamento online para salões, clínicas, redes e franquias. |
 | 2014 a 2017 | aspecTI | Sistemas empresariais, incluindo uma plataforma do Grupo Profarma com mais de 10.000 usuários. |
